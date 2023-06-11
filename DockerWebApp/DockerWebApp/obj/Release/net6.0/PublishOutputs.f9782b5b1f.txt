@@ -1,0 +1,7 @@
+C:\D\PROJECTS\Git\Applications\DockerWebApp\DockerWebApp\obj\Docker\publish\DockerWebApp.exe
+C:\D\PROJECTS\Git\Applications\DockerWebApp\DockerWebApp\obj\Docker\publish\appsettings.Development.json
+C:\D\PROJECTS\Git\Applications\DockerWebApp\DockerWebApp\obj\Docker\publish\appsettings.json
+C:\D\PROJECTS\Git\Applications\DockerWebApp\DockerWebApp\obj\Docker\publish\DockerWebApp.dll
+C:\D\PROJECTS\Git\Applications\DockerWebApp\DockerWebApp\obj\Docker\publish\DockerWebApp.deps.json
+C:\D\PROJECTS\Git\Applications\DockerWebApp\DockerWebApp\obj\Docker\publish\DockerWebApp.runtimeconfig.json
+C:\D\PROJECTS\Git\Applications\DockerWebApp\DockerWebApp\obj\Docker\publish\DockerWebApp.pdb
